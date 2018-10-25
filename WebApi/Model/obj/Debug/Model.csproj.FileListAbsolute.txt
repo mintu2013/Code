@@ -1,0 +1,17 @@
+C:\Users\MintumolThomas\Desktop\Mintu_Code\Model\bin\Debug\Model.dll
+C:\Users\MintumolThomas\Desktop\Mintu_Code\Model\bin\Debug\Model.pdb
+C:\Users\MintumolThomas\Desktop\Mintu_Code\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\MintumolThomas\Desktop\Mintu_Code\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\MintumolThomas\Desktop\Mintu_Code\Model\obj\Debug\Model.dll
+C:\Users\MintumolThomas\Desktop\Mintu_Code\Model\obj\Debug\Model.pdb
+C:\Users\MintumolThomas\Desktop\Mintu_Code\WebApi\Model\bin\Debug\Model.dll
+C:\Users\MintumolThomas\Desktop\Mintu_Code\WebApi\Model\bin\Debug\Model.pdb
+C:\Users\MintumolThomas\Desktop\Mintu_Code\WebApi\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\MintumolThomas\Desktop\Mintu_Code\WebApi\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\MintumolThomas\Desktop\Mintu_Code\WebApi\Model\obj\Debug\Model.dll
+C:\Users\MintumolThomas\Desktop\Mintu_Code\WebApi\Model\obj\Debug\Model.pdb
+C:\Users\Mintu\Desktop\Mintu_Code\WebApi\Model\bin\Debug\Model.dll
+C:\Users\Mintu\Desktop\Mintu_Code\WebApi\Model\bin\Debug\Model.pdb
+C:\Users\Mintu\Desktop\Mintu_Code\WebApi\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Mintu\Desktop\Mintu_Code\WebApi\Model\obj\Debug\Model.dll
+C:\Users\Mintu\Desktop\Mintu_Code\WebApi\Model\obj\Debug\Model.pdb

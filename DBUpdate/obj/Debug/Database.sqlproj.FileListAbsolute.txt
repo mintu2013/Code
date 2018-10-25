@@ -1,0 +1,11 @@
+C:\Users\MintumolThomas\Desktop\Mintu_Code\DBUpdate\bin\Debug\Database.dacpac
+C:\Users\MintumolThomas\Desktop\Mintu_Code\DBUpdate\bin\Debug\DBUpdate.dll
+C:\Users\MintumolThomas\Desktop\Mintu_Code\DBUpdate\bin\Debug\DBUpdate.pdb
+C:\Users\MintumolThomas\Desktop\Mintu_Code\DBUpdate\obj\Debug\DBUpdate.dll
+C:\Users\MintumolThomas\Desktop\Mintu_Code\DBUpdate\obj\Debug\DBUpdate.pdb
+C:\Users\MintumolThomas\Desktop\Mintu_Code\DBUpdate\obj\Debug\Database.sqlprojAssemblyReference.cache
+C:\Users\Mintu\Desktop\Mintu_Code\DBUpdate\bin\Debug\Database.dacpac
+C:\Users\Mintu\Desktop\Mintu_Code\DBUpdate\bin\Debug\DBUpdate.dll
+C:\Users\Mintu\Desktop\Mintu_Code\DBUpdate\bin\Debug\DBUpdate.pdb
+C:\Users\Mintu\Desktop\Mintu_Code\DBUpdate\obj\Debug\DBUpdate.dll
+C:\Users\Mintu\Desktop\Mintu_Code\DBUpdate\obj\Debug\DBUpdate.pdb
